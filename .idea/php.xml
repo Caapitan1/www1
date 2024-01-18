@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="58d7f771-1278-450a-b3f4-ca8a830245a4" name="PHP" home="C:\Program Files\JetBrains\PhpStorm 2021.1.4\bin\phpstorm64.exe" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+</project>
